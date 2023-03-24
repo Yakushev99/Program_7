@@ -1,10 +1,9 @@
 package ru.ibs.program7;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         final double x = 1.5;
         final double y = 5;
